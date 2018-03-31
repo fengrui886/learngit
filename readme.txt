@@ -5,4 +5,8 @@ git please
 
 allow me add a sentence
 
+<<<<<<< HEAD
 ok i am 1.4445
+=======
+ok i am 2.5
+>>>>>>> master
