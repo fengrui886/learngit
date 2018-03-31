@@ -12,5 +12,3 @@ ok i am 2.5
 >>>>>>> master
 
 hit
-
-add to dev
